@@ -8,4 +8,8 @@ Answer: Data science could be applied to sports. An example is football and you 
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: Rebasing presents problems one at a time while merging presents them all together.
+Answer: Rebase presents conflicts one at a time while merge presents them together.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my ability to visualize and summarize a data project.
